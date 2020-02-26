@@ -17,7 +17,7 @@ The Supply Chain Sandbox is an interactive environment, with hands on games and 
 We will hold a number of brief presentations in the Supply Chain Sandbox space. Session times, topics, and speakers will be posted later.
 
 # Games
-We have games! 
+We have games!
 * [Supply Chain Jenga](https://docs.google.com/spreadsheets/d/1RXn6B1aBbPCP7gQZA-sDUOTj-nGsNMWdej_1oE3x54s/edit#gid=2135077036) - The tower game you love and fear, with new gameplay and rules!
 * [Supply Chain Sprint](http://supplychainsprint.com/) - A classic 8-bit game, updated to reflect the relay race that is modern supply chains.
 
@@ -42,3 +42,11 @@ We have games!
 # Resources and Further Reading
 * [NTIA Software Bill of Materials project](https://ntia.gov/sbom)
 * [Model contract language](https://www.eei.org/issuesandpolicy/Documents/EEI%20Law%20-%20Model%20Procurement%20Contract%20Language%20(Version%202)_031919.pdf)
+* [NATF Cyber Security Supply Chain Criteria for Suppliers (Version 1)](http://www.natf.net/docs/natf/documents/resources/supply-chain/natf-cyber-security-supply-chain-criteria-for-suppliers-v1.xlsx)
+* [Guide on Cybersecurity Procurement Language in Task Order Requests for Proposals for Federal Facilities](https://www.pnnl.gov/main/publications/external/technical_reports/PNNL-28661.pdf)
+* [Energy Sector Control Systems Working Group (ESCSWG)](https://www.energy.gov/sites/prod/files/2014/04/f15/CybersecProcurementLanguage-EnergyDeliverySystems_040714_fin.pdf)
+* [Department of Homeland Security: Cyber Security Procurement Language for Control Systems](https://www.us-cert.gov/sites/default/files/documents/Procurement_Language_Rev4_100809_S508C.pdf)
+* [Cyber Security Procurement Language for Control Systems Version 1.8](https://www.energy.gov/sites/prod/files/oeprod/DocumentsandMedia/SCADA_Procurement_Language.pdf)
+* [National Electrical Manufacturers Association (NEMA) Supply Chain Best Practices Guideline](http://www.nema.org/Standards/Pages/Supply-Chain-Best-Practices.aspx#download)
+* [NIST 800-161 Supply Chain Risk Management Practices for Federal Information Systems and Organizations](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-161.pdf)
+* [NIST 800-30 Guide for Conducting Risk Assessments](https://doi.org/10.6028/NIST.SP.800-30r1)
