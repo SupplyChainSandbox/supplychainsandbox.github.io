@@ -41,3 +41,4 @@ We have games!
 
 # Resources and Further Reading
 * [NTIA Software Bill of Materials project](https://ntia.gov/sbom)
+* [Model contract language](https://www.eei.org/issuesandpolicy/Documents/EEI%20Law%20-%20Model%20Procurement%20Contract%20Language%20(Version%202)_031919.pdf)
