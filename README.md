@@ -20,6 +20,7 @@ We will hold a number of brief presentations in the Supply Chain Sandbox space. 
 We have games!
 * [Supply Chain Jenga](https://docs.google.com/spreadsheets/d/1RXn6B1aBbPCP7gQZA-sDUOTj-nGsNMWdej_1oE3x54s/edit#gid=2135077036) - The tower game you love and fear, with new gameplay and rules!
 * [Supply Chain Sprint](http://supplychainsprint.com/) - A classic 8-bit game, updated to reflect the relay race that is modern supply chains.
+* [Beer Game App](https://beergameapp.com/) - There are several online variations on the classic MIT [Beer Supply Chain Game](https://en.wikipedia.org/wiki/Beer_distribution_game). This is our favorite, others are linked below.
 
 # Supply Chain Principles
 [Software in the Supply Chain Era](https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/supply-chain-in-the-software-era/)
@@ -50,3 +51,9 @@ We have games!
 * [National Electrical Manufacturers Association (NEMA) Supply Chain Best Practices Guideline](http://www.nema.org/Standards/Pages/Supply-Chain-Best-Practices.aspx#download)
 * [NIST 800-161 Supply Chain Risk Management Practices for Federal Information Systems and Organizations](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-161.pdf)
 * [NIST 800-30 Guide for Conducting Risk Assessments](https://doi.org/10.6028/NIST.SP.800-30r1)
+
+## Other Beer Game Versions
+* [The Beergame App](https://beergameapp.com/)
+* [Supply Chain Academy](https://www.supplychain-academy.net/beer-game/)
+* [A.T. Kearney (iPhone)](https://beergameapp.com/)
+* [Opex Analytics](https://beergame.opexanalytics.com/#/)
