@@ -4,7 +4,7 @@
       background: linear-gradient(rgba(255,255,255,0), rgba(255,255,255,1)) , url(/assets/2020-usa/img/joshua-sortino-71vAb1FXB6g-unsplash.jpg) center center;
       background-size: cover;
       color: black;
-      min-height: 50vh;
+      min-height: 100vh;
       display: flex;
       align-items: center;
       justify-content: center;
@@ -12,14 +12,26 @@
 </style>
 
 <header>
-  <div class="container">
-    <div class="intro-text">
-      <div class="intro-heading">RSA Conference 2020<br></div>
-      <div class="intro-heading">San Francisco, USA<br></div>
-      <div class="intro-lead-in">February 24-28</div>
-      <a href="#about" class="btn btn-circle page-scroll">
-        <i class="fa fa-angle-double-down fa-5x"></i>
-      </a>
+  <div class="container h-100">
+    <div class="jumbotron bg-transparent">
+
+      <div id="large_screens" class="d-none d-lg-block">
+        <div class="display-2 text-center">RSA Conference 2020</div>
+        <div class="display-4 text-center">San Francisco, USA</div>
+        <div class="display-4 text-center">February 24-28</div>
+      </div>
+
+      <div id="small_screens" class="d-lg-none">
+        <div class="h2 text-center">RSA Conference 2020</div>
+        <div class="lead text-center">San Francisco, USA</div>
+        <div class="lead text-center">February 24-28</div>
+      </div>
+
+      <div class="row justify-content-center">
+        <a href="#about" class="btn btn-circle page-scroll">
+          <i class="fas fa-angle-double-down fa-5x"></i>
+        </a>
+      </div>
     </div>
   </div>
 </header>
