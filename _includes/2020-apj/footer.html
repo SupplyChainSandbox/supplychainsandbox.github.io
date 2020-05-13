@@ -1,0 +1,18 @@
+<footer>
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-md-6 text-center">
+        <span class="copyright">© {{ 'now' | date: "%Y" }} <a href="https://supplychainsandbox.org">Supply Chain Sandbox</a> by <a href="https://beauwoods.com">Beau Woods</a>, et. al.</span>
+        <p>Photo by <a href-"https://unsplash.com/@duykhuongxyz?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Duy Nguyen</a> on <a
+            href="https://unsplash.com/s/photos/singapore?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></p>
+      </div>
+      <div class="col-md-6 text-center">
+        <ul class="list-inline social-buttons">
+          {% for network in site.social %}
+          <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a></li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>

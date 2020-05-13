@@ -1,0 +1,25 @@
+title: Supply Chain Sandbox
+description: > # this means to ignore newlines until "baseurl:"
+  The Supply Chain Sandbox is an interactive environment, with hands on games and demonstrations that illustrate supply chain issues, as well as concepts and approaches to manage them more effectively.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://supplychainsandbox.org" # the base hostname & protocol for your site
+# Build settings
+markdown: kramdown
+
+include: ['2020_us', '2020_apj']
+
+gtag: UA-166317026-1
+
+plugins:
+  - jekyll-sitemap
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: github
+    url: https://github.com/SupplyChainSandbox
+  - title: twitter
+    url: https://twitter.com/supplychainsbx
+
+# Build settings
+markdown: kramdown
+permalink: pretty
