@@ -61,3 +61,5 @@ Future section
 ### SupplychainSandbox-Website members
 
 * Beau Woods ([@beauwoods](https://github.com/beauwoods))
+* Rick Martinez ([@TypeIsCheap](https://github.com/TypeIsCheap))
+* Alyssa Feola ([@its-a-lisa](https://github.com/its-a-lisa))
